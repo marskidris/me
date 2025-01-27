@@ -1,0 +1,52 @@
+
+
+.heroMe {
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+
+}
+
+.head {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.head h1 {
+  font-size: 3em;
+}
+
+div h2 {
+  font-size: 2.5em;
+  text-align: center;
+
+}
+div .intro1 {
+  text-align: center;
+}
+div.intro, .learn, .fact, .learn, .hobby {
+  border: black 2px solid;
+  border-radius: 10px;
+  justify-content: center;
+  margin: 15px;
+  padding: 0px 0px 15px 15px;
+  font-size: large;
+  background: white;
+
+}
+body {
+
+  font-family: Times New Roman, Times, serif;
+  margin: 0;
+  padding: 0px 150px 100px 150px;
+  background: #555555;
+}
+
+footer {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+}
